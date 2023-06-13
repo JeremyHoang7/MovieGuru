@@ -1,5 +1,6 @@
 # movie-guru
-Project 3 - Movie guru
+
+For all sorts of `movie watchers` out there this app is `perfect for you`, with movie guru can allow you to look through all upcoming movies and like which ones `spark your interest` to watch later. This application is super easy for any user to access, with its clean design and super simple to manuver interface creates a `simple` one page app `for all movie go-ers`.
 
 ## Installation
 
@@ -15,7 +16,7 @@ So that I can enjoy movies I have not seen
 
 ## Screenshots
 
-![screenshot]()
+![screenshot](./client/src/Screenshot%202023-06-12%20at%206.59.10%20PM.png)
 
 ## Technology Used
 
@@ -33,7 +34,7 @@ So that I can enjoy movies I have not seen
 
 Heroku deployed app:
 
-Github Repo: https://github.com/agcontr1/movie-guru
+Github Repo: https://github.com/JeremyHoang7/MovieGuru/tree/main
 
 ## License
 
